@@ -15,6 +15,9 @@ const Header = ({ siteTitle }) => (
         maxWidth: 960,
         padding: `1.45rem 1.0875rem`,
       }}
+      className={{
+        header
+      }}
     >
       <h1 style={{ margin: 0 }}>
         <Link
