@@ -1,0 +1,13 @@
+$myColor: red;
+$myColor2: darkblue;
+
+h1 {
+  color: $myColor;
+}
+.blue {
+  color: $myColor2;
+}
+.bigblue {
+  font-size: xx-large;
+  color: $myColor2;
+}
