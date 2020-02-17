@@ -1,8 +1,10 @@
 $myColor: red;
 $myColor2: darkblue;
+$myColor3: yellow;
 
 h1 {
   color: $myColor;
+  background-color: $myColor3;
 }
 .blue {
   color: $myColor2;
